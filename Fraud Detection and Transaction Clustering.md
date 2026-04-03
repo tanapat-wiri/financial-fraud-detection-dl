@@ -2,11 +2,10 @@
 
 <div id="header">
 
-# final project
+# Financial Fraud Detection and Transaction Clustering
 
-#### Thanapat
+#### Thanapat_wiri
 
-#### 2024-12-02
 
 </div>
 
