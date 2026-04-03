@@ -21,4 +21,4 @@ To develop a robust financial security system capable of detecting fraudulent tr
 
 ## 📁 Repository Structure
 * `/code`: Contains the R scripts for data scaling, DBSCAN clustering, and Neural Network modeling.
-* `/report`: Contains the project presentation/report (PDF).
+* `/report`: Contains the project presentation/report.
