@@ -1,7 +1,6 @@
 ---
-title: "final project"
-author: "Thanapat"
-date: "2024-12-02"
+title: "Financial Fraud Detection and Transaction Clustering"
+author: "Thanapat_wiri"
 output: html_document
 ---
 
